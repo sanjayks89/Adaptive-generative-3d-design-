@@ -1,5 +1,4 @@
 # Adaptive-generative-3d-design
-# Phase 2: Adaptive 3D Shape Generation from Physical Feature Constraints
 
 ## Overview
 This project introduces a transformative approach for designing complex 3D parts—specifically focusing on casting geometries used in the automotive industry—by moving away from slow, traditional methods and leveraging Generative AI[span_0](start_span)[span_0](end_span). 

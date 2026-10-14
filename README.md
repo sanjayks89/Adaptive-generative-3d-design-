@@ -1,9 +1,9 @@
 # Adaptive-generative-3d-design
 
 ## Overview
-This project introduces a transformative approach for designing complex 3D parts—specifically focusing on casting geometries used in the automotive industry—by moving away from slow, traditional methods and leveraging Generative AI[span_0](start_span)[span_0](end_span). 
+This project introduces a transformative approach for designing complex 3D parts—specifically focusing on casting geometries used in the automotive industry—by moving away from slow, traditional methods and leveraging Generative AI. 
 
-Traditional workflows involve many slow steps, ranging from basic hand sketches and precise 2D CAD drafting to complex 3D CAD models followed by costly simulation and validation loops[span_1](start_span)[span_1](end_span). This project implements an AI-driven pipeline that generates adaptive 3D shapes that are physically accurate and manufacturable, replacing manual and iterative CAD processes with an automated, data-driven system[span_2](start_span)[span_2](end_span).
+Traditional workflows involve many slow steps, ranging from basic hand sketches and precise 2D CAD drafting to complex 3D CAD models followed by costly simulation and validation loops. This project implements an AI-driven pipeline that generates adaptive 3D shapes that are physically accurate and manufacturable, replacing manual and iterative CAD processes with an automated, data-driven system[span_2](start_span)[span_2](end_span).
 
 ---
 
